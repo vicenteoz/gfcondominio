@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\vicenteoz\\php-classes\\src"
+            "Gfcondominio\\": "vendor\\vicenteoz\\php-classes\\src"
         }
     }
 }
