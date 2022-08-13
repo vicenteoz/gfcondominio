@@ -1,2 +1,2 @@
 # gfcondominio
-Controle analítico contábil
+Controle contábil analítico.
